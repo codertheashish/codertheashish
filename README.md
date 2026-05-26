@@ -17,14 +17,29 @@
 
 ### 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ashish-kumar-prajapati-3b6858301" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://www.linkedin.com/in/ashish-kumar-prajapati-3b6858301" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"
+       title="LinkedIn - Connect with me professionally" />
 </a>
 
-<a href="https://github.com/codertheashish" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/codertheashish" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github"
+       title="GitHub - Check out my projects and repositories" />
 </a>
+<a href="https://instagram.com/codertheashish" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram"
+       title="Instagram - Follow my journey" />
+</a>
+
+<a href="mailto:codertheashish@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail"
+       title="Gmail - Contact me via email" />
+</a>
+
 </p>
 
 ---
@@ -134,9 +149,12 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codertheashish&layout=compact&theme=tokyonight" />
 </p>
----
-### ⚡ Fun Fact
 
-💻 “Code. Learn. Improve. Repeat.”
+## ⚡ Fun Fact
 
----
+```python
+while(alive):
+    eat()
+    code()
+    sleep()
+    repeat()
