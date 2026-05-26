@@ -174,9 +174,11 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
+
 ## ⚡ Fun Fact
 
 ```python
@@ -186,6 +188,10 @@ while(alive):
     sleep()
     repeat()
 ```
+
+💻 "Code. Learn. Improve. Repeat."
+
+---
 
 💻 "Code. Learn. Improve. Repeat."
 
