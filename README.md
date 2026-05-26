@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
-<h3 align="center">Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀</h3>
+
+<h3 align="center">
+Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
+</h3>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
 
@@ -14,6 +18,7 @@
 - 💡 Passionate about technology and problem solving  
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -27,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=github"
        title="GitHub - Check out my projects and repositories" />
 </a>
+
 <a href="https://instagram.com/codertheashish" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram"
        title="Instagram - Follow my journey" />
@@ -70,28 +76,35 @@
 </a>
 
 <a href="https://opencv.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV - Computer Vision Library" />
+  <img src="https://skillicons.dev/icons?i=opencv"
+       title="OpenCV - Computer Vision Library" />
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow - Machine Learning Framework" />
+  <img src="https://skillicons.dev/icons?i=tensorflow"
+       title="TensorFlow - Machine Learning Framework" />
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask - Python Web Framework" />
+  <img src="https://skillicons.dev/icons?i=flask"
+       title="Flask - Python Web Framework" />
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL - Database Management" />
+  <img src="https://skillicons.dev/icons?i=mysql"
+       title="MySQL - Database Management" />
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux - Operating System" />
+  <img src="https://skillicons.dev/icons?i=linux"
+       title="Linux - Operating System" />
 </a>
 
 <a href="https://www.java.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" title="Java - Programming Language" />
+  <img src="https://skillicons.dev/icons?i=java"
+       title="Java - Programming Language" />
 </a>
+
 <a href="https://streamlit.io/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"
        width="48" height="48"
@@ -99,11 +112,13 @@
 </a>
 
 <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" title="C - Programming Language" />
+  <img src="https://skillicons.dev/icons?i=c"
+       title="C - Programming Language" />
 </a>
 
 </p>
 
+---
 
 ## 🚀 Project Showcase
 
@@ -146,12 +161,16 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codertheashish&layout=compact&theme=tokyonight" />
 </p>
+
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codertheashish/codertheashish/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/codertheashish/codertheashish/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+
+---
 
 ## ⚡ Fun Fact
 
@@ -161,3 +180,8 @@ while(alive):
     code()
     sleep()
     repeat()
+```
+
+💻 "Code. Learn. Improve. Repeat."
+
+---
