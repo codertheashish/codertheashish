@@ -83,8 +83,16 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 <a href="https://www.java.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=java" title="Java - Programming Language" />
 </a>
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit - ML Web App Framework" />
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" title="C - Programming Language" />
+</a>
 
 </p>
+
 
 ### 📌 Featured Projects
 
