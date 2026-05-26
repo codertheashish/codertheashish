@@ -32,11 +32,30 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" />
+
+<img src="https://skillicons.dev/icons?i=python"
+title="Python - Used for AI, ML & Backend Development" />
+
+<img src="https://skillicons.dev/icons?i=git"
+title="Git - Version Control System" />
+
+<img src="https://skillicons.dev/icons?i=github"
+title="GitHub - Code Hosting & Collaboration" />
+
+<img src="https://skillicons.dev/icons?i=vscode"
+title="VS Code - My Main Code Editor" />
+
+<img src="https://skillicons.dev/icons?i=html"
+title="HTML - Structure of Web Pages" />
+
+<img src="https://skillicons.dev/icons?i=css"
+title="CSS - Styling Web Pages" />
+
 </p>
+
 
 ---
 
