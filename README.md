@@ -36,28 +36,31 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python"
-title="Python - Used for AI, ML & Backend Development" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=git"
-title="Git - Version Control System" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=github"
-title="GitHub - Code Hosting & Collaboration" />
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=vscode"
-title="VS Code - My Main Code Editor" />
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=html"
-title="HTML - Structure of Web Pages" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=css"
-title="CSS - Styling Web Pages" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+</a>
 
 </p>
-
-
----
 
 ### 📌 Featured Projects
 
