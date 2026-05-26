@@ -60,6 +60,30 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
 </a>
 
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV - Computer Vision Library" />
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow - Machine Learning Framework" />
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask - Python Web Framework" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL - Database Management" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux - Operating System" />
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" title="Java - Programming Language" />
+</a>
+
 </p>
 
 ### 📌 Featured Projects
