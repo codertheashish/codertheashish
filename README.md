@@ -42,11 +42,29 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 
 ### 📌 Featured Projects
 
-- 🤖 AI Air Writing
-- 🐍 Happy Birthday
-- 🔳 QR Code Generator
-- 📄 Calculator App
-- 🎵 Invisible Cloth
+<p align="left">
+
+<a href="https://github.com/codertheashish/Ai-Air-Writing" target="_blank">
+  <img src="https://img.shields.io/badge/🤖_AI_Air_Writing-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/codertheashish/Happy-Birthday" target="_blank">
+  <img src="https://img.shields.io/badge/🎂_Happy_Birthday-FF1493?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/codertheashish/Qr-Code" target="_blank">
+  <img src="https://img.shields.io/badge/🔳_QR_Code_Generator-000000?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/codertheashish/Calculator-App" target="_blank">
+  <img src="https://img.shields.io/badge/🧮_Calculator_App-FF8C00?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/codertheashish/Invisible-Cloth" target="_blank">
+  <img src="https://img.shields.io/badge/👻_Invisible_Cloth-6A5ACD?style=for-the-badge" />
+</a>
+
+</p>
 
 ---
 
