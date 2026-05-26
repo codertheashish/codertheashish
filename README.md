@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE (AI/ML) Student  
 - 🐍 Skilled in Python Development  
@@ -14,9 +14,6 @@
 - 💡 Passionate about technology and problem solving  
 
 ---
-
-### 🌐 Connect With Me
-
 ## 🌐 Connect With Me
 
 <p align="left">
