@@ -192,7 +192,3 @@ while(alive):
 💻 "Code. Learn. Improve. Repeat."
 
 ---
-
-💻 "Code. Learn. Improve. Repeat."
-
----
