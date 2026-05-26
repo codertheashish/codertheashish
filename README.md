@@ -84,7 +84,9 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
   <img src="https://skillicons.dev/icons?i=java" title="Java - Programming Language" />
 </a>
 <a href="https://streamlit.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit - ML Web App Framework" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"
+       width="48" height="48"
+       title="Streamlit - ML Web App Framework"/>
 </a>
 
 <a href="https://www.cprogramming.com/" target="_blank">
