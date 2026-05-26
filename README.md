@@ -53,7 +53,7 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codertheashish&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codertheashish&show_icons=true&theme=github_dark&cache_seconds=1800"/>
 </p>
 
 ---
@@ -61,8 +61,9 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codertheashish&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codertheashish&layout=compact&theme=github_dark&cache_seconds=1800"/>
 </p>
+
 ---
 ### ⚡ Fun Fact
 
