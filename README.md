@@ -53,7 +53,7 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 </a>
 
 <a href="https://github.com/codertheashish/Qr-Code" target="_blank">
-  <img src="https://img.shields.io/badge/🔳_QR_Code_Generator-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔳_QR_Code_Generator-00C853?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/codertheashish/Calculator-App" target="_blank">
