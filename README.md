@@ -43,10 +43,10 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 ### 📌 Featured Projects
 
 - 🤖 AI Air Writing
-- 🐍 Snake Game
+- 🐍 Happy Birthday
 - 🔳 QR Code Generator
-- 📄 PDF Generator
-- 🎵 Lyrics Animation Project
+- 📄 Calculator App
+- 🎵 Invisible Cloth
 
 ---
 
