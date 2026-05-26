@@ -146,6 +146,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codertheashish&layout=compact&theme=tokyonight" />
 </p>
+---
 ## 🐍 Contribution Snake
 
 <p align="center">
