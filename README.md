@@ -1,6 +1,3 @@
-# coderthesashish
-Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
-
 <h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
 <h3 align="center">Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀</h3>
 
@@ -96,7 +93,7 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 </p>
 
 
-### 📌 Featured Projects
+## 🚀 Project Showcase
 
 <p align="left">
 
