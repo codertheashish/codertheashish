@@ -176,6 +176,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight" />
 </p>
+---
 ## ⚡ Fun Fact
 
 ```python
