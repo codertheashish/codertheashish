@@ -3,7 +3,10 @@
 <h3 align="center">
 Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 </h3>
-
+<p align="center">
+  <img align="right" alt="Coding" width="350"
+       src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 ---
 
 ## 👨‍💻 About Me
