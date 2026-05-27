@@ -187,8 +187,3 @@ while(alive):
     code()
     sleep()
     repeat()
-```
-
-💻 "Code. Learn. Improve. Repeat."
-
----
