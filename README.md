@@ -131,8 +131,8 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
   <img src="https://img.shields.io/badge/🎂_Happy_Birthday-FF1493?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/codertheashish/Qr-Code" target="_blank">
-  <img src="https://img.shields.io/badge/🔳_QR_Code_Generator-00C853?style=for-the-badge" />
+<a href="https://github.com/codertheashish/Emotion-Detection" target="_blank">
+  <img src="https://img.shields.io/badge/😊Emotion Detection-00C853?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/codertheashish/Calculator-App" target="_blank">
