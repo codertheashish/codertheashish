@@ -4,6 +4,9 @@
 Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 </h3>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects+🚀" alt="Typing SVG" />
+</p>
+<p align="center">
   <img align="right" alt="Coding" width="350"
        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
