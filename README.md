@@ -7,16 +7,16 @@
 
 ## 👨‍💻 About Me
 
-<p align="right">
-  <img alt="Coding" width="400"
-       src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
+<img align="right" alt="Coding" width="280"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.Tech CSE (AI/ML) Student  
-- 🐍 Skilled in Python Development  
-- 🤖 Exploring AI, Machine Learning & Data Science  
-- 🚀 Building real-world projects and improving every day  
-- 💡 Passionate about technology and problem solving  
+- 🎓 B.Tech CSE (AI/ML) Student
+- 🐍 Skilled in Python Development
+- 🤖 Exploring AI, Machine Learning & Data Science
+- 🚀 Building real-world projects and improving every day
+- 💡 Passionate about technology and problem solving
+
+<br clear="right"/>
 
 ---
 
