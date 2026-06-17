@@ -8,10 +8,8 @@ Python Developer | AI/ML Enthusiast | Building Real-World Projects 🚀
 </p>
 
 <p align="center">
-  <img align="right" alt="Coding" width="350"
-       src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects" />
 </p>
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE (AI/ML) Student  
