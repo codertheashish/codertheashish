@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects+🚀" />
+</p>
 
 <p align="right">
   <img alt="Coding" width="400"
@@ -10,11 +11,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI/ML) Student  
-- 🐍 Skilled in Python Development  
-- 🤖 Exploring AI, Machine Learning & Data Science  
-- 🚀 Building real-world projects and improving every day  
-- 💡 Passionate about technology and problem solving  
+- 🎓 B.Tech CSE (AI/ML) Student
+- 🐍 Skilled in Python Development
+- 🤖 Exploring AI, Machine Learning & Data Science
+- 🚀 Building real-world projects and improving every day
+- 💡 Passionate about technology and problem solving
 
 ---
 
