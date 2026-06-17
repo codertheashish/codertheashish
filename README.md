@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80" />
 </p>
+<p align="right">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png">
+</p>
 
 ## 👨‍💻 About Me
 
