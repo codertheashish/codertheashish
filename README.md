@@ -15,7 +15,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🤖 Exploring AI, Machine Learning & Data Science
 - 🚀 Building real-world projects and improving every day
 - 💡 Passionate about technology and problem solving
-
+- 🔭 Currently working on AI & Computer Vision projects
+- 🌱 Learning Deep Learning, TensorFlow & Open Source
+- 👨‍💻 Building Python, Web Development and AI-based applications
 <br clear="right"/>
 
 ---
