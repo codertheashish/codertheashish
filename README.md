@@ -22,34 +22,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ashish-kumar-prajapati-3b6858301" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin"
-       title="LinkedIn - Connect with me professionally" />
-</a>
-
-<a href="https://github.com/codertheashish" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github"
-       title="GitHub - Check out my projects and repositories" />
-</a>
-
-<a href="https://instagram.com/codertheashish" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram"
-       title="Instagram - Follow my journey" />
-</a>
-
-<a href="mailto:codertheashish@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail"
-       title="Gmail - Contact me via email" />
-</a>
-
-</p>
-
----
-
 ## 🚀 Tech Stack
 
 <p align="left">
@@ -178,6 +150,34 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight&hide_border=true" />
+</p>
+
+----
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ashish-kumar-prajapati-3b6858301" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"
+       title="LinkedIn - Connect with me professionally" />
+</a>
+
+<a href="https://github.com/codertheashish" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github"
+       title="GitHub - Check out my projects and repositories" />
+</a>
+
+<a href="https://instagram.com/codertheashish" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram"
+       title="Instagram - Follow my journey" />
+</a>
+
+<a href="mailto:codertheashish@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail"
+       title="Gmail - Contact me via email" />
+</a>
+
 </p>
 
 ---
