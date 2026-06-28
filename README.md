@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
+<center><img src = "Profile/profile.jpeg"/><center/>
+  <h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Computer+Vision+Builder;App+Developer" />
