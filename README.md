@@ -1,4 +1,4 @@
-<center><img src = "Profile/profile.jpeg" width="300px"/><center/>
+<center < img src = "Profile/profile.jpeg" width="300px"/></center>
   <h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
 
 <p align="center">
