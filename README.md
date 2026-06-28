@@ -1,10 +1,7 @@
-<center><img src="Profile/profile.jpeg" width="300px"/></center>
 <p align="center">
   <img src="Profile/profile.jpeg" width="300px"/>
 </p>
-<div align="center">
-  <img src="Profile/profile.jpeg" width="300px"/>
-</div>
+
   <h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
 
 <p align="center">
