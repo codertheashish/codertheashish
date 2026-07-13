@@ -27,76 +27,43 @@
 ---
 
 ## 🚀 Tech Stack
-
 <p align="left">
-
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" title="C - Programming Language" />
+</a>
 <a href="https://www.python.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
 </a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" title="Java - Programming Language" />
 </a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
 </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
 </a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+</a>
 <a href="https://opencv.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=opencv"
-       title="OpenCV - Computer Vision Library" />
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV - Computer Vision Library" />
 </a>
-
 <a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow"
-       title="TensorFlow - Machine Learning Framework" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow - Machine Learning Framework" />
 </a>
-
 <a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flask"
-       title="Flask - Python Web Framework" />
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask - Python Web Framework" />
 </a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql"
-       title="MySQL - Database Management" />
+  <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL - Database Management" />
 </a>
-
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux"
-       title="Linux - Operating System" />
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java"
-       title="Java - Programming Language" />
-</a>
-
 <a href="https://streamlit.io/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"
        width="48" height="48"
        title="Streamlit - ML Web App Framework"/>
 </a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c"
-       title="C - Programming Language" />
-</a>
-
 </p>
-
 ---
 
 ## 🚀 Project Showcase
