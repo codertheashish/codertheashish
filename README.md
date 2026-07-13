@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
- 
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Computer+Vision+Builder;App+Developer" />
 </p>
 
 <img align="left" src="Profile/profile.jpeg" width="300px" hspace="25" vspace="10"/>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-  🎓 B.Tech CSE (AI/ML) Student
-  🐍 Skilled in Python Development
-  🤖 Exploring AI, Machine Learning & Data Science
-  🚀 Building real-world projects and improving every day
-  💡 Passionate about technology and problem solving
-  🔭 Currently working on AI & Computer Vision projects
-  🌱 Learning Deep Learning, TensorFlow & Open Source
-  👨‍💻 Building Python, Web Development and AI-based applications
+<div style="line-height: 6.2;">
+
+🎓 B.Tech CSE (AI/ML) Student<br>
+🐍 Skilled in Python Development<br>
+🤖 Exploring AI, Machine Learning & Data Science<br>
+🚀 Building real-world projects and improving every day<br>
+💡 Passionate about technology and problem solving<br>
+🔭 Currently working on AI & Computer Vision projects<br>
+🌱 Learning Deep Learning, TensorFlow & Open Source<br>
+👨‍💻 Building Python, Web Development and AI-based applications<br>
+🌐 Active on GitHub, contributing to open-source projects<br>
+
+</div>
 
 <br clear="left"/>
 
@@ -98,24 +103,29 @@
 
 <p align="left">
 
-<a href="https://github.com/codertheashish/Ai-Air-Writing" target="_blank">
-  <img src="https://img.shields.io/badge/🤖_AI_Air_Writing-0A66C2?style=for-the-badge" />
+<a href="https://github.com/codertheashish/AI-Resume-Analyzer" target="_blank">
+  <img src="https://img.shields.io/badge/🤖AI Resume Analyzer-0A66C2?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/codertheashish/Happy-Birthday" target="_blank">
-  <img src="https://img.shields.io/badge/🎂_Happy_Birthday-FF1493?style=for-the-badge" />
+<a href="https://github.com/codertheashish/Hand-Gesture-Recognition" target="_blank">
+  <img src="https://img.shields.io/badge/🖐️Hand Gesture Recognition-FF1493?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/codertheashish/Emotion-Detection" target="_blank">
   <img src="https://img.shields.io/badge/😊Emotion Detection-00C853?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/codertheashish/Calculator-App" target="_blank">
-  <img src="https://img.shields.io/badge/🧮_Calculator_App-FF8C00?style=for-the-badge" />
+<a href="https://github.com/codertheashish/Deepfake-Detection-Images" target="_blank">
+  <img src="https://img.shields.io/badge/🧮Deepfake Detection Images-FF8C00?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/codertheashish/Invisible-Cloth" target="_blank">
-  <img src="https://img.shields.io/badge/👻_Invisible_Cloth-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👻 Invisible Cloth-6A5ACD?style=for-the-badge" />
+</a>
+
+</a>
+<a href="https://github.com/codertheashish?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/➕ Show More Repos-333333?style=for-the-badge" />
 </a>
 
 </p>
