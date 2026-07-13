@@ -3,27 +3,22 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Computer+Vision+Builder;App+Developer" />
 </p>
-<table>
-<tr>
-<td width="300px" valign="top">
-  <img src="Profile/profile.jpeg" width="300px"/>
-</td>
-<td valign="top">
- 
+
+<img align="left" src="Profile/profile.jpeg" width="300px" hspace="25" vspace="10"/>
+
 ## 👨‍💻 About Me
- 
-- 🎓 B.Tech CSE (AI/ML) Student
-- 🐍 Skilled in Python Development
-- 🤖 Exploring AI, Machine Learning & Data Science
-- 🚀 Building real-world projects and improving every day
-- 💡 Passionate about technology and problem solving
-- 🔭 Currently working on AI & Computer Vision projects
-- 🌱 Learning Deep Learning, TensorFlow & Open Source
-- 👨‍💻 Building Python, Web Development and AI-based applications
-</td>
-</tr>
-</table>
- 
+
+  🎓 B.Tech CSE (AI/ML) Student
+  🐍 Skilled in Python Development
+  🤖 Exploring AI, Machine Learning & Data Science
+  🚀 Building real-world projects and improving every day
+  💡 Passionate about technology and problem solving
+  🔭 Currently working on AI & Computer Vision projects
+  🌱 Learning Deep Learning, TensorFlow & Open Source
+  👨‍💻 Building Python, Web Development and AI-based applications
+
+<br clear="left"/>
+
 ---
 
 ## 🚀 Tech Stack
