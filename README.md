@@ -9,7 +9,8 @@
   <img src="Profile/profile.jpeg" width="300px"/>
 </td>
 <td valign="top">
-### 👨‍💻 About Me
+ 
+# 👨‍💻 About Me
  
 - 🎓 B.Tech CSE (AI/ML) Student
 - 🐍 Skilled in Python Development
