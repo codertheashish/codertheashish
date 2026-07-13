@@ -128,6 +128,10 @@
   <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codertheashish&color=blueviolet" alt="Profile views" />
+</p>
+
 ----
 
 ## 🌐 Connect With Me
@@ -155,6 +159,3 @@
 </a>
 
 </p>
-
----
-![Profile views](https://komarev.com/ghpvc/?username=codertheashish&color=blueviolet)
