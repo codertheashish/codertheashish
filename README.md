@@ -157,12 +157,4 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-```python
-while(alive):
-    eat()
-    code()
-    sleep()
-    repeat()
+![Profile views](https://komarev.com/ghpvc/?username=codertheashish&color=blueviolet)
