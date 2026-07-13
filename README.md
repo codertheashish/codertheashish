@@ -1,19 +1,16 @@
-<p align="center">
-  <img src="Profile/profile.jpeg" width="300px"/>
-</p>
-
-  <h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
-
+<h1 align="center">Hi 👋, I'm Ashish Kumar Prajapati</h1>
+ 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Computer+Vision+Builder;App+Developer" />
-
-
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="280"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+</p>
+<table>
+<tr>
+<td width="300px" valign="top">
+  <img src="Profile/profile.jpeg" width="300px"/>
+</td>
+<td valign="top">
+### 👨‍💻 About Me
+ 
 - 🎓 B.Tech CSE (AI/ML) Student
 - 🐍 Skilled in Python Development
 - 🤖 Exploring AI, Machine Learning & Data Science
@@ -22,8 +19,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 Currently working on AI & Computer Vision projects
 - 🌱 Learning Deep Learning, TensorFlow & Open Source
 - 👨‍💻 Building Python, Web Development and AI-based applications
-<br clear="right"/>
-
+</td>
+</tr>
+</table>
+ 
 ---
 
 ## 🚀 Tech Stack
