@@ -10,7 +10,7 @@
 </td>
 <td valign="top">
  
-# 👨‍💻 About Me
+## 👨‍💻 About Me
  
 - 🎓 B.Tech CSE (AI/ML) Student
 - 🐍 Skilled in Python Development
