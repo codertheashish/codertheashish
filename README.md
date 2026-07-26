@@ -155,7 +155,7 @@
        title="Gmail - Contact me via email" />
 </a>
 
-<a href="https://codertheashish-portfolio.vercel.app/" target="_blank">
+<a href="https://codertheashish.vercel.app/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/codertheashish/codertheashish/main/Profile/codertheashish.jpeg"
     width="48"
