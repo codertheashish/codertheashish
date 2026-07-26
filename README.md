@@ -10,15 +10,15 @@
 
 <div style="line-height: 6.2;">
 
-🎓 B.Tech CSE (AI/ML) Student<br>
-🐍 Skilled in Python Development<br>
-🤖 Exploring AI, Machine Learning & Data Science<br>
-🚀 Building real-world projects and improving every day<br>
-💡 Passionate about technology and problem solving<br>
-🔭 Currently working on AI & Computer Vision projects<br>
-🌱 Learning Deep Learning, TensorFlow & Open Source<br>
-👨‍💻 Building Python, Web Development and AI-based applications<br>
-🌐 Active on GitHub, contributing to open-source projects<br>
+- 🎓 B.Tech CSE (AI/ML) Student
+- 🐍 Skilled in Python Development
+- 🤖 Exploring AI, Machine Learning & Data Science
+- 🚀 Building real-world projects and improving every day
+- 💡 Passionate about technology and problem solving
+- 🔭 Currently working on AI & Computer Vision projects
+- 🌱 Learning Deep Learning, TensorFlow & Open Source
+- 👨‍💻 Building Python, Web Development and AI-based applications
+- 🌐 Active on GitHub, contributing to open-source projects
 
 </div>
 
@@ -153,6 +153,16 @@
 <a href="mailto:codertheashish@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail"
        title="Gmail - Contact me via email" />
+</a>
+
+<a href="https://codertheashish-portfolio.vercel.app/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/codertheashish/codertheashish/main/Profile/codertheashish.jpeg"
+    width="40"
+    height="40"
+    style="border-radius:50%;"
+    title="Website"
+  />
 </a>
 
 </p>
