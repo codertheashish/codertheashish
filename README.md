@@ -158,8 +158,8 @@
 <a href="https://codertheashish-portfolio.vercel.app/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/codertheashish/codertheashish/main/Profile/codertheashish.jpeg"
-    width="40"
-    height="40"
+    width="48"
+    height="48"
     style="border-radius:50%;"
     title="Website"
   />
