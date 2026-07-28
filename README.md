@@ -3,6 +3,15 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Computer+Vision+Builder;App+Developer" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codertheashish&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/codertheashish?tab=followers">
+    <img src="https://img.shields.io/github/followers/codertheashish?label=Followers&style=for-the-badge&color=orange" />
+  </a>
+  <a href="https://github.com/codertheashish?tab=repositories">
+    <img src="https://img.shields.io/github/stars/codertheashish?affiliations=OWNER&style=for-the-badge&color=yellow" />
+  </a>
+</p>
 
 <img align="left" src="Profile/profile.jpeg" width="300px" hspace="25" vspace="10"/>
 
@@ -107,6 +116,13 @@
 </p>
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🔥 Most Used Languages
 
@@ -120,13 +136,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/codertheashish/codertheashish/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight&hide_border=true" />
 </p>
 
 ----
