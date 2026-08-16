@@ -112,10 +112,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codertheashish&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=codertheashish&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -123,11 +127,13 @@
 </p>
 
 ---
-
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codertheashish&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=codertheashish&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
@@ -170,7 +176,7 @@
     width="48"
     height="48"
     style="border-radius:50%;"
-    title="Website"
+    title="Portfolio - Explore my projects"
   />
 </a>
 
