@@ -150,7 +150,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ashish-kumar-prajapati-3b6858301" target="_blank">
+<a href="https://www.linkedin.com/in/codertheashish" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin"
        title="LinkedIn - Connect with me professionally" />
 </a>
