@@ -13,6 +13,7 @@
   </a>
 </p>
 
+<<<<<<< HEAD
 <p align="center">
 <a href="https://github.com/codertheashish/codertheashish">
   <picture>
@@ -21,6 +22,27 @@
   </picture>
 </a>
 </p>
+=======
+<img align="left" src="Profile/profile.jpeg" width="300px" hspace="25" vspace="10"/>
+
+### 👨‍💻 About Me
+
+<div style="line-height: 6.2;">
+
+- 🎓 B.Tech CSE (AI/ML) Student
+- 🐍 Skilled in Python Development
+- 🤖 Exploring AI, Machine Learning & Data Science
+- 🚀 Building real-world projects and improving every day
+- 💡 Passionate about technology and problem solving
+- 🔭 Currently working on AI & Computer Vision projects
+- 🌱 Learning Deep Learning, TensorFlow & Open Source
+- 👨‍💻 Building Python, Web Development and AI-based applications
+- 🌐 Active on GitHub, contributing to open-source projects
+
+</div>
+
+<br clear="left"/>
+>>>>>>> origin/main
 
 ---
 
